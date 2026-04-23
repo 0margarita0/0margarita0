@@ -7,4 +7,5 @@ HTML, CSS, JavaScript, C#
 
 # Contact:
 dimitrijeskamargarita@gmail.com
+
 https://www.linkedin.com/in/margarita-dimitrijeska/
