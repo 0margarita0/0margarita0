@@ -46,7 +46,7 @@ A mobile application focused on improving safety and awareness.
 * 📱 Implemented features using Flutter
 * 🤝 Collaborated on UX and functionality
 
-🔗 
+🔗 https://github.com/0margarita0/flutter_app
 
 
 # Contact:
