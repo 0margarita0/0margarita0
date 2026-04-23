@@ -1,8 +1,8 @@
-# Margarita-Dimitrijeska
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7A41D&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Margarita;Future+Frontend+Developer;Welcome+to+my+GitHub)
 
 
-🛠️ Skills
+
+## 🛠️ Skills
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
@@ -34,6 +34,20 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello)
+
+## 🚀 Projects
+
+### 📱 Hear & See Safe
+
+A mobile application focused on improving safety and awareness.
+
+* 👩‍💻 Developed as a team project
+* 🎨 Designed UI using Figma
+* 📱 Implemented features using Flutter
+* 🤝 Collaborated on UX and functionality
+
+🔗 
+
 
 # Contact:
 dimitrijeskamargarita@gmail.com
