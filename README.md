@@ -1,7 +1,5 @@
 # Margarita-Dimitrijeska
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7A41D&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Margarita;Future+Frontend+Developer;Welcome+to+my+GitHub)
-Student
-Interested in Software Development, mostly Web Development.
 
 
 🛠️ Skills
