@@ -41,9 +41,10 @@
 
 A mobile application focused on improving safety and awareness.
 
-* 👩‍💻 Developed as a team project
+* 👥 Developed as a team project
 * 🎨 Designed UI using Figma
 * 📱 Implemented features using Flutter
+* 🤖 Integrated an AI-powered Voice Assistant to improve accessibility and hands-free interaction
 * 🤝 Collaborated on UX and functionality
 
 🔗 https://github.com/0margarita0/flutter_app
